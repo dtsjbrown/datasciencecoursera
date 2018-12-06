@@ -1,0 +1,12 @@
+Script started on Thu Dec  6 07:32:12 2018
+[?1034hbash-3.2$ cat ../typescript 
+bash-3.2$ git init
+Initialized empty Git repository in /Users/sjbrown/Git/datasciencecoursera/.git/
+bash-3.2$ git remote add datasciencecoursera https://github.com/dtsjbrown/datasciencecoursera
+bash-3.2$ git add -A
+bash-3.2$ git commit -m "Adding HelloWorld.md file"
+bash-3.2$ git pull datasciencecoursera
+bash-3.2$ git status
+bash-3.2$ pwd
+/Users/sjbrown/Git/datasciencecoursera
+bash-3.2$ git init
